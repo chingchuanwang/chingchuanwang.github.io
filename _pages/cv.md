@@ -11,54 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Accounting, University of Utah, 2026 (expected)
+* M.S. in Finance, University of British Columbia, 2020
+* M.A. in Economics, Duke University, 2016
+* B.S. in Finance, Statistics (minor), National Chengchi University, 2013
 
-Work experience
+Research Interests
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Disclosure
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Working Papers
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+* Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
+  * Presented at the University of Utah, AAA PhD Consortium, BYU Accounting Research Symposium
+* Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
+* Role of Disclosure in Partially Regulated Markets (with Atif Ellahie and Maclean Gaulin)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Management Accounting (ACCTG 5210), Undergraduate, University of Utah (2023)
+  * Average (median) instructor rating (out of 6.0): 5.5 (6.0) 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
