@@ -21,6 +21,7 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the [David Eccles S
 
 ### Research Interests
 * Disclosure
+
 --- 
 
 ### Working Papers
