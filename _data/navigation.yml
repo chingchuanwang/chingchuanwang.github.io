@@ -5,8 +5,10 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "CV"
-    url: /cv/
+ # - title: "CV"
+  #  url: /cv/
+   - title: "CV"
+    url: "https://chingchuanwang.github.io/files/CV_Wang.pdf"
   #- title: "Publications"
     #url: /publications/
 
