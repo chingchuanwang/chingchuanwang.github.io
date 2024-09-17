@@ -25,8 +25,8 @@ author:
   name             : "Ching-Chuan (David) Wang"
   pronouns         : # example: "he/his"  
   bio              : "Accounting PhD Candidate from University of Utah"
-  location         : "Salt Lake City, Utah"
-  employer         : "University of Utah"
+  location         : # "Salt Lake City, Utah"
+  employer         : # "University of Utah"
   uri              : https://chingchuanwang.github.io
   email            : "david.c.wang@eccles.utah.edu" 
 
