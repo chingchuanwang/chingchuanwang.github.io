@@ -9,9 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Accounting, University of Utah, 2026 (expected)
-* M.S. in Finance, University of British Columbia, 2020
-* M.A. in Economics, Duke University, 2016
-* B.S. in Finance, Statistics (minor), National Chengchi University, 2013
+### Instructor
+* Management Accounting (ACCTG 5210), Undergraduate, University of Utah (2023)
+  * Average (median) instructor rating (out of 6.0): 5.5 (6.0) 
