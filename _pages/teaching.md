@@ -9,6 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-### Instructor
-* Management Accounting (ACCTG 5210), Undergraduate, University of Utah (2023)
-  * Average (median) instructor rating (out of 6.0): 5.5 (6.0) 
+### Instructor (University of Utah)
+* Management Accounting (ACCTG 5210), 2023 Summer
+  * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
+ 
+--- 
+
+### Teaching Assistant (University of British Columbia)
+* Applied Financial Markets, Undergraduate, 2018 - 2020
+* Empirical Finance, MBA, 2020 Spring
+* Managerial Economics, Undergraduate, 2019 Summer
