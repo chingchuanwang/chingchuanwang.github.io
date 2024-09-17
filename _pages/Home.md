@@ -25,8 +25,4 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the [David Eccles S
 * Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 * Role of Disclosure in Partially Regulated Markets (with Atif Ellahie and Maclean Gaulin)
 
----
-  
-### Teaching
-* Management Accounting (ACCTG 5210), Undergraduate, University of Utah (2023)
-  * Average (median) instructor rating (out of 6.0): 5.5 (6.0) 
+
