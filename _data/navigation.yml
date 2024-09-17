@@ -6,7 +6,7 @@
 
 main:
   - title: "Home"
-    url: /home/
+    url: /Home/
   
   - title: "CV"
     url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
