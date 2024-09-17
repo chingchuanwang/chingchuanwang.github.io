@@ -17,11 +17,6 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the [David Eccles S
 * M.A. in Economics, Duke University, 2016
 * B.S. in Finance, Statistics (minor), National Chengchi University, 2013
 
----
-
-### Research Interests
-* Disclosure
-
 --- 
 
 ### Working Papers
