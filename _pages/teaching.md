@@ -19,3 +19,5 @@ redirect_from:
 * Applied Financial Markets, Undergraduate, 2018 - 2020
 * Empirical Finance, MBA, 2020 Spring
 * Managerial Economics, Undergraduate, 2019 Summer
+* Corporate Finance, MBA, University of British Columbia, 2018 Summer
+* Investment Theory, 2018-2019
