@@ -11,9 +11,9 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 ---
 
-#### [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf)
+### [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
 
-#### [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
+### [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf)
 
 ---
 
