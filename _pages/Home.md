@@ -15,6 +15,3 @@ A detailed [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf) is availab
 
 <iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" width="100%" height="800px" scrolling="yes">
 </iframe>
-
-<object data="https://chingchuanwang.github.io/files/CV_CCWang.pdf" type="application/pdf" width="100%"> 
-</object>
