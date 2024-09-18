@@ -7,11 +7,11 @@ redirect_from:
   - /Home.html
 ---
 
-Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles School of Business, University of Utah. His research primarily explores areas within financial accounting, with a special emphasis on corporate disclosure and financial reporting. A detailed [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf) is available. 
+Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles School of Business, University of Utah. His research primarily explores areas within financial accounting, with a special emphasis on corporate disclosure and financial reporting. 
 
 ---
 
-Download [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf)
+A detailed [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf) is available to download. 
 
 <iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" width="100%" height="800px">
 </iframe>
