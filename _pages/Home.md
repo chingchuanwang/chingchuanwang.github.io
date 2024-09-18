@@ -17,7 +17,7 @@ Email: [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
 
 ---
 
-### Education
+## Education
 
 * PhD in Accounting, University of Utah, 2026 (expected)
 * MS in Finance, University of British Columbia, 2020
@@ -26,7 +26,7 @@ Email: [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
 
 --- 
 
-### Working Papers and Selected Work in Progress 
+## Working Papers and Selected Work in Progress 
 
 
 Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
@@ -37,7 +37,7 @@ Why do Public Disclosures Increase Disagreements? The Role of Private Informatio
 Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
 
 --- 
-### Teaching
+## Teaching
 
 Instructor (University of Utah)
 * Management Accounting (ACCTG 5210), 2023 Summer
