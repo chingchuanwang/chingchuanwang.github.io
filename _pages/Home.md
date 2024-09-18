@@ -19,13 +19,13 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 ### Education
 
-:school: PhD in Accounting, University of Utah, 2026 (expected)
+:books: PhD in Accounting, University of Utah, 2026 (expected)
 
-:school: MS in Finance, University of British Columbia, 2020
+:books: MS in Finance, University of British Columbia, 2020
 
-:school: MA in Economics, Duke University, 2016
+:books: MA in Economics, Duke University, 2016
 
-:school: BS in Finanace, Statistics (minor), National Chengchi University, 2013 
+:books: BS in Finanace, Statistics (minor), National Chengchi University, 2013 
 
 --- 
 
@@ -43,6 +43,6 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 ### Teaching
 
-:books: Management Accounting (ACCTG 5210), 2023 Summer
+:book: Management Accounting (ACCTG 5210), 2023 Summer
   * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
 
