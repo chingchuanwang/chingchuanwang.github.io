@@ -14,17 +14,29 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 A detailed [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf) is available to download. 
 
 <style>
+    /* Ensure the iframe is responsive */
     iframe {
         width: 100%;
         height: 800px;
         border: none;
-        overflow: auto;
+        overflow: scroll;
     }
-    @media screen and (max-width: 600px) {
+
+    /* Adjust the height for smaller screens */
+    @media screen and (max-width: 768px) {
+        iframe {
+            height: 600px;
+        }
+    }
+
+    /* For very small screens */
+    @media screen and (max-width: 480px) {
         iframe {
             height: 400px;
         }
     }
 </style>
 
-<iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" scrolling="auto"></iframe>
+<!-- Embed the PDF in an iframe -->
+<iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" scrolling="yes"></iframe>
+
