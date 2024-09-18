@@ -16,14 +16,15 @@ A detailed [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf) is availab
 <style>
     iframe {
         width: 100%;
-        height: 800px; /* Default height */
+        height: 800px;
+        border: none;
+        overflow: auto;
     }
     @media screen and (max-width: 600px) {
         iframe {
-            height: 400px; /* Adjust height for smaller screens */
+            height: 400px;
         }
     }
 </style>
 
-<iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" style="overflow:auto;" scrolling="yes"></iframe>
-
+<iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" scrolling="auto"></iframe>
