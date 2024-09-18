@@ -11,11 +11,10 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 ---
 
-### Education
-* Ph.D in Accounting, University of Utah, 2026 (expected)
-* M.S. in Finance, University of British Columbia, 2020
-* M.A. in Economics, Duke University, 2016
-* B.S. in Finance, Statistics (minor), National Chengchi University, 2013
+Download [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf)
+
+<iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" width="100%" height="800px">
+</iframe>
 
 --- 
 
@@ -25,5 +24,3 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
   
 * Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 * Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
-
-
