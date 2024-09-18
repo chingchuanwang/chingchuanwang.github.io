@@ -37,6 +37,7 @@ Why do Public Disclosures Increase Disagreements? The Role of Private Informatio
 Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
 
 --- 
+
 ## Teaching
 
 Instructor (University of Utah)
