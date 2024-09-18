@@ -35,3 +35,11 @@ Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
 Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 
 Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
+
+--- 
+### Teaching
+
+Instructor (University of Utah)
+* Management Accounting (ACCTG 5210), 2023 Summer
+  * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
+
