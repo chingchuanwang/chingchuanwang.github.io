@@ -11,38 +11,38 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 ---
 
-### [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf)
+### :page_facing_up: [CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf)
 
-### [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
+### :email: [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
 
 ---
 
 ### Education
 
-PhD in Accounting, University of Utah, 2026 (expected)
+:school: PhD in Accounting, University of Utah, 2026 (expected)
 
-MS in Finance, University of British Columbia, 2020
+:school: MS in Finance, University of British Columbia, 2020
 
-MA in Economics, Duke University, 2016
+:school: MA in Economics, Duke University, 2016
 
-BS in Finanace, Statistics (minor), National Chengchi University, 2013 
+:school: BS in Finanace, Statistics (minor), National Chengchi University, 2013 
 
 --- 
 
 ### Working Papers and Selected Work in Progress 
 
 
-Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
+:notebook: Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
   * Committee: Atif Ellahie (Chair), Steve Stubben, Steve Monahan, Xiaoxia (Sasha) Peng, Yihui Pan
 
-Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
+:notebook: Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 
-Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
+:notebook: Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
 
 --- 
 
 ### Teaching
 
-Management Accounting (ACCTG 5210), 2023 Summer
+:books: Management Accounting (ACCTG 5210), 2023 Summer
   * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
 
