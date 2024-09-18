@@ -9,6 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+<iframe src="https://chingchuanwang.github.io/files/CV_CCWang.pdf" width="100%" height="600px">
+</iframe>
+
+<object data="https://chingchuanwang.github.io/files/CV_CCWang.pdf" type="application/pdf" width="100%"> 
+</object>
+
 Education
 ======
 * Ph.D in Accounting, University of Utah, 2026 (expected)
