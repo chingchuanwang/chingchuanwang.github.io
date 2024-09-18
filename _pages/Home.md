@@ -19,7 +19,7 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 --- 
 
-### Working Papers
+### Working Papers and Selected Work in Progress 
 * Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
   * Committee: Atif Ellahie (Chair), Steve Stubben, Steve Monahan, Xiaoxia (Sasha) Peng, Yihui Pan
   
