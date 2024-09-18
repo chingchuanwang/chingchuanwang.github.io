@@ -19,10 +19,13 @@ Email: [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
 
 ### Education
 
-* PhD in Accounting, University of Utah, 2026 (expected)
-* MS in Finance, University of British Columbia, 2020
-* MA in Economics, Duke University, 2016
-* BS in Finanace, Statistics (minor), National Chengchi University, 2013 
+PhD in Accounting, University of Utah, 2026 (expected)
+
+MS in Finance, University of British Columbia, 2020
+
+MA in Economics, Duke University, 2016
+
+BS in Finanace, Statistics (minor), National Chengchi University, 2013 
 
 --- 
 
@@ -40,7 +43,6 @@ Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanue
 
 ### Teaching
 
-Instructor (University of Utah)
-* Management Accounting (ACCTG 5210), 2023 Summer
+Management Accounting (ACCTG 5210), 2023 Summer
   * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
 
