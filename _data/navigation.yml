@@ -9,7 +9,7 @@ main:
     url: /Home/
   
   - title: "CV"
-    url: '[CV](https://chingchuanwang.github.io/files/CV_CCWang.pdf){:target="_blank"}'
+    url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
   
   - title: "Teaching"
     url: /teaching/  
