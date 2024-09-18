@@ -9,7 +9,8 @@ main:
     url: /Home/
   
   - title: "CV"
-    url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
+    url: /cv/
+    # url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
   
   - title: "Teaching"
     url: /teaching/  
