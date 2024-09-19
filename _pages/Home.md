@@ -37,7 +37,7 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 
 :book: Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 
-:book: Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
+:book: Disclosure Certification in Quasi-Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
 
 --- 
 
