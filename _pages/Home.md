@@ -32,17 +32,17 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 ### Working Papers and Selected Work in Progress 
 
 
-:notebook_with_decorative_cover: Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
+:book: Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
   * Committee: Atif Ellahie (Chair), Steve Stubben, Steve Monahan, Xiaoxia (Sasha) Peng, Yihui Pan
 
-:notebook_with_decorative_cover: Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
+:book: Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 
-:notebook_with_decorative_cover: Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
+:book: Role of Disclosure in Partially Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
 
 --- 
 
 ### Teaching
 
-:book: Management Accounting (ACCTG 5210), Undergraduate, 2023 Summer
+:closed_book: Management Accounting (ACCTG 5210), Undergraduate, 2023 Summer
   * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
 
