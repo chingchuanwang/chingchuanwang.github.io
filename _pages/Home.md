@@ -43,6 +43,6 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the David Eccles Sc
 
 ### Teaching
 
-:closed_book: Management Accounting (ACCTG 5210), Undergraduate, 2023 Summer
+:pencil: Management Accounting (ACCTG 5210), Undergraduate, 2023 Summer
   * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
 
