@@ -7,7 +7,7 @@ redirect_from:
   - /Home.html
 ---
 
-Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of Utah. His research primarily explores areas within financial accounting, with a special emphasis on corporate disclosure and financial reporting. 
+Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of Utah. His research primarily explores areas within financial accounting, with a special emphasis on corporate disclosure and information intermediaries. 
 
 ---
 
@@ -33,7 +33,7 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 
 
 :book: Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
-  * Committee: Atif Ellahie (Chair), Steve Stubben, Steve Monahan, Xiaoxia (Sasha) Peng, Yihui Pan
+  * Committee: Atif Ellahie (chair), Steve Stubben, Steve Monahan, Xiaoxia Peng, Yihui Pan
 
 :book: Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
 
@@ -43,6 +43,6 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 
 ### Teaching
 
-:pencil: Management Accounting (ACCTG 5210), Undergraduate, 2023 Summer
-  * Average (median) instructor rating (out of 6.0): 5.5 (6.0)
-
+:pencil: Management Accounting, Undergraduate, 2023 Summer
+  * Average Instructor Rating: 5.5/6.0; Median: 6.0/6.0
+  * Received Doctoral Student Teaching Excellence Award
