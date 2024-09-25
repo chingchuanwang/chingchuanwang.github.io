@@ -1,4 +1,4 @@
-# Home
+## Ching-Chuan (David) Wang
 
 Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of Utah. His research primarily explores areas within financial accounting, with a special emphasis on corporate disclosure and information intermediaries. 
 
