@@ -21,13 +21,13 @@ repository               : "chingchuanwang/chingchuanwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ching-Chuan Wang.jpeg"
+  avatar           : "Ching-Chuan Wang.jpg"
   name             : "Ching-Chuan (David) Wang"
   pronouns         : # example: "he/his"  
   bio              : "PhD Candidate in Accounting at University of Utah"
   location         : # "Salt Lake City, Utah"
   employer         : # "University of Utah"
-  uri              : # https://chingchuanwang.github.io
+  uri              : https://eccles.utah.edu/team/david-wang/
   email            : "david.c.wang@eccles.utah.edu"
   
 
