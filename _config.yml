@@ -21,7 +21,7 @@ repository               : "chingchuanwang/chingchuanwang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Ching-Chuan Wang.jpg"
+  avatar           : "Ching-Chuan Wang.png"
   name             : "Ching-Chuan (David) Wang"
   pronouns         : # example: "he/his"  
   bio              : "PhD Candidate in Accounting at University of Utah"
