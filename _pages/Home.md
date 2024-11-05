@@ -1,4 +1,3 @@
-<meta name="google-site-verification" content="xyJRIYgK0x3euL6pxt7IGns8fxljqD3AdE-kQd9wnrY" />
 ---
 permalink: /
 title: ""
