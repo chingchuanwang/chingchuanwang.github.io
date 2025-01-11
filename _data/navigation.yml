@@ -11,8 +11,7 @@ main:
   - title: "CV"
     #url: /cv/
     #url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
-    url: https://chingchuanwang.github.io/files/CV_CCWang.pdf
-    attributes: 'target="_blank"'
+    url: <a href="https://chingchuanwang.github.io/files/CV_CCWang.pdf" target="_blank">CV</a>
     
   #- title: "Research"
   #  url: /research/
