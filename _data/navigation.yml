@@ -7,7 +7,11 @@
 main:
   - title: "Home"
     url: /Home/
-  
+
+  - title: "CV"
+    url: /cv/
+    url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
+    
   #- title: "Research"
   #  url: /research/
   
@@ -17,9 +21,7 @@ main:
   - title: "Resources"
     url: /resources/
     
- # - title: "CV"
-  #  url: /cv/
-   # url: 'https://chingchuanwang.github.io/files/CV_CCWang.pdf'
+
    
   #- title: "Publications"
     #url: /publications/
