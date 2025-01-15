@@ -40,11 +40,3 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-.author__avatar img {
-    width: 150px; /* Adjust width for rectangle */
-    height: 100px; /* Adjust height for rectangle */
-    border-radius: 0; /* Removes circular shape */
-    object-fit: cover; /* Ensures the image fits within the rectangle */
-    border: 2px solid #ccc; /* Optional border */
-    box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1); /* Optional shadow for a polished look */
-}
