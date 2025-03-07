@@ -18,7 +18,7 @@ Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
 
 ---
 
-Why do Public Disclosures Increase Disagreements? The Role of Private Information Segmentation (with Iman Sheibany)
+Does specialization lead to disagreement? (with Cyrus Aghamolla and Iman Sheibany)
 
 ---
 
