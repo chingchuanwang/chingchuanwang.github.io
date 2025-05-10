@@ -1,10 +1,10 @@
 ---
 layout: archive
 title: "Academic Genealogy"
-permalink: /academic_genealogy/
+permalink: /genealogy/
 author_profile: true
 redirect_from:
-  - /academic_genealogy
+  - /genealogy
 ---
 
 ## Academic Genealogy
@@ -36,5 +36,3 @@ graph TD
   Sloan --> Richardson
   Richardson --> Ellahie
   Ellahie --> Wang
-</details>
-```
