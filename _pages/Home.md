@@ -32,10 +32,10 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 ### Working Papers and Selected Work in Progress 
 
 
-:book: Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
+:book: Spillover Effect of Government Subsidies on Peer Firm Disclosure (Dissertation)
   * Committee: Atif Ellahie (chair), Steve Stubben, Steve Monahan, Xiaoxia Peng, Yihui Pan
 
-:book: Does specialization lead to disagreement? (with Cyrus Aghamolla and Iman Sheibany)
+:book: Does Specialization Lead to Disagreement? (with Cyrus Aghamolla and Iman Sheibany)
 
 :book: Disclosure Certification in Quasi-Regulated Markets (with Thomas Bourveau, Emmanuel De George, Atif Ellahie and Maclean Gaulin)
 
