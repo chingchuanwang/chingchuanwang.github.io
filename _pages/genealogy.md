@@ -7,39 +7,20 @@ redirect_from:
   - /genealogy
 ---
 
-## Academic Genealogy
+```mermaid
+graph TD
+  Miller["Merton Miller"]
+  Fama["Eugene Fama"]
+  Watts["Ross Watts"]
+  Sloan["Richard Sloan"]
+  Richardson["Scott Richardson"]
+  Ellahie["Atif Ellahie"]
+  Wang["Ching-Chuan (David) Wang"]
 
-+--------------------------+
-|     Merton Miller        |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|      Eugene Fama         |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|       Ross Watts         |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|     Richard Sloan        |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|   Scott Richardson       |
-+--------------------------+
-            |
-            v
-+--------------------------+
-|      Atif Ellahie        |
-+--------------------------+
-            |
-            v
-+--------------------------+
-| Ching-Chuan (David) Wang |
-+--------------------------+
+  Miller --> Fama
+  Fama --> Watts
+  Watts --> Sloan
+  Sloan --> Richardson
+  Richardson --> Ellahie
+  Ellahie --> Wang
 
