@@ -37,3 +37,20 @@ graph TD
   Richardson --> Ellahie
   Ellahie --> Wang
 ```
+
+graph TD
+  Miller["Merton Miller"]
+  Fama["Eugene Fama"]
+  Watts["Ross Watts"]
+  Sloan["Richard Sloan"]
+  Richardson["Scott Richardson"]
+  Ellahie["Atif Ellahie"]
+  Wang["Ching-Chuan (David) Wang"]
+
+  Miller --> Fama
+  Fama --> Watts
+  Watts --> Sloan
+  Sloan --> Richardson
+  Richardson --> Ellahie
+  Ellahie --> Wang
+
