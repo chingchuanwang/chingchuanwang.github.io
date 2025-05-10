@@ -9,7 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-📄 [Download Genealogy Diagram (PDF)](/files/genealogy.pdf)
-
 <iframe src="/files/genealogy.pdf" width="100%" height="800px">
 </iframe>
