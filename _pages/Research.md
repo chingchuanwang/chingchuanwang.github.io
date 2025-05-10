@@ -13,12 +13,12 @@ redirect_from:
 
 ---
 
-Spillover Effect of Government Subsidies on Peer Firm Disclosures (Dissertation)
+Spillover Effect of Government Subsidies on Peer Firm Disclosure (Dissertation)
   * Committee: Atif Ellahie (Chair), Steve Stubben, Steve Monahan, Xiaoxia (Sasha) Peng, Yihui Pan
 
 ---
 
-Does specialization lead to disagreement? (with Cyrus Aghamolla and Iman Sheibany)
+Does Specialization Lead to Disagreement? (with Cyrus Aghamolla and Iman Sheibany)
 
 ---
 
