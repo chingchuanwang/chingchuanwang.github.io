@@ -7,6 +7,8 @@ redirect_from:
   - /genealogy
 ---
 
+
+
 ```mermaid
 graph TD
   Miller["Merton Miller"]
@@ -17,10 +19,10 @@ graph TD
   Ellahie["Atif Ellahie"]
   Wang["Ching-Chuan (David) Wang"]
 
-  Miller --> Fama
-  Fama --> Watts
-  Watts --> Sloan
-  Sloan --> Richardson
-  Richardson --> Ellahie
-  Ellahie --> Wang
+  Miller --> Fama;
+  Fama --> Watts;
+  Watts --> Sloan;
+  Sloan --> Richardson;
+  Richardson --> Ellahie;
+  Ellahie --> Wang;
 ```
