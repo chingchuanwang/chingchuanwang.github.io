@@ -13,10 +13,18 @@ redirect_from:
 </iframe>
 
 ```mermaid
-graph LR
-    A[Start] --> B[Process AI Data]
-    B --> C[Train Model]
-    C --> D[Deploy Model]
-    D --> E[Monitor Results]
-    E --> F[Refine Model]
-    F --> C
+graph TD
+  Miller["Merton Miller"]
+  Fama["Eugene Fama"]
+  Watts["Ross Watts"]
+  Sloan["Richard Sloan"]
+  Richardson["Scott Richardson"]
+  Ellahie["Atif Ellahie"]
+  Wang["Ching-Chuan (David) Wang"]
+
+  Miller --> Fama
+  Fama --> Watts
+  Watts --> Sloan
+  Sloan --> Richardson
+  Richardson --> Ellahie
+  Ellahie --> Wang
