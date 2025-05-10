@@ -20,6 +20,16 @@ redirect_from:
 <details>
 <summary>Click to expand Mermaid version</summary>
 
+<div style="text-align: center;">
+  <p>Merton Miller ↓<br>
+  Eugene Fama ↓<br>
+  Ross Watts ↓<br>
+  Richard Sloan ↓<br>
+  Scott Richardson ↓<br>
+  Atif Ellahie ↓<br>
+  <strong>Ching-Chuan (David) Wang</strong></p>
+</div>
+
 ```mermaid
 graph TD
   Miller["Merton Miller"]
