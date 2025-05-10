@@ -22,8 +22,8 @@ main:
   - title: "Resources"
     url: /resources/
 
-  - title: "Academic Genealogy"
-    url: /genealogy/
+ # - title: "Academic Genealogy"
+ #   url: /genealogy/
 
    
   #- title: "Publications"
