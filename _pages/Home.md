@@ -29,7 +29,7 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 
 --- 
 
-### Working Papers and Selected Work in Progress 
+### Working Papers
 
 
 :book: Spillover Effect of Government Subsidies on Peer Firm Disclosure (Dissertation)
