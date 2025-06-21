@@ -31,11 +31,3 @@ redirect_from:
 :books: Macroeconomics: <a href="https://wp.nyu.edu/markgertler/macro-theory-2-slides/" target="_blank">Mark Gertler</a>, <a href="https://benjaminmoll.com/lectures/" target="_blank">Benjamin Moll</a>, <a href="http://www.chrisedmond.net/teaching.html" target="_blank">Chris Edmond</a>, <a href="https://www.sas.upenn.edu/~jesusfv/teaching.html" target="_blank">Jesus Fernandez-Villaverde</a>
 
 :books: Econometrics: <a href="https://ocw.mit.edu/courses/14-387-applied-econometrics-mostly-harmless-big-data-fall-2014/" target="_blank">Joshua Angrist and Victor Chernozhukov</a>, <a href="https://github.com/paulgp/applied-methods-phd" target="_blank">Paul Goldsmith-Pinkham</a>, <a href="https://about.peterhull.net/metrix" target="_blank">Peter Hull</a>
-
----
-
-### Misc
-
-:mortar_board: Academic Genealogy: Merton Miller -> Eugene Fama -> Ross Watts -> Richard Sloan -> Scott Richardson -> Atif Ellahie -> Ching-Chuan (David) Wang
-
-
