@@ -43,6 +43,13 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 
 ### Teaching
 
+:pencil: Management Accounting, Undergraduate, 2025 Summer
+
 :pencil: Management Accounting, Undergraduate, 2023 Summer
   * Average Instructor Rating: 5.5/6.0; Median: 6.0/6.0
   * Received Doctoral Student Teaching Excellence Award
+
+---
+### Misc
+
+:school: Academic Genealogy: Merton Miller -> Eugene Fama -> Ross Watts -> Richard Sloan -> Scott Richardson -> Atif Ellahie -> Ching-Chuan Wang
