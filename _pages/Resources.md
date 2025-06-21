@@ -36,5 +36,6 @@ redirect_from:
 
 ### Misc
 
-Academic Genealogy:
-$Merton\ Miller \rightarrow Eugene\ Fama \rightarrow Ross\ Watts \rightarrow Richard\ Sloan \rightarrow Scott\ Richardson \rightarrow Atif\ Ellahie \rightarrow Ching\text{-}Chuan\ Wang$
+Academic Genealogy: Merton Miller -> Eugene Fama -> Ross Watts -> Richard Sloan -> Scott Richardson -> Atif Ellahie -> Ching-Chuan (David) Wang
+
+
