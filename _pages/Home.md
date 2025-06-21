@@ -56,4 +56,4 @@ Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of U
 ---
 ### Misc
 
-:school: Academic Genealogy: Merton Miller -> Eugene Fama -> Ross Watts -> Richard Sloan -> Scott Richardson -> Atif Ellahie -> Ching-Chuan Wang
+🏛️: Academic Genealogy: Merton Miller -> Eugene Fama -> Ross Watts -> Richard Sloan -> Scott Richardson -> Atif Ellahie -> Ching-Chuan Wang
