@@ -20,7 +20,8 @@ redirect_from:
 
 ### PhD Notes
 
-:books: Accounting: <a href="https://sites.google.com/site/jeremybertomeu/ph-d-course" target="_blank">Jeremy Bertomeu</a>, <a href="https://ksmith142.github.io" target="_blank">Kevin Smith</a>
+:books: Accounting: <a href="https://sites.google.com/site/jeremybertomeu/ph-d-course" target="_blank">Jeremy Bertomeu</a>, <a href="https://sites.duke.edu/xjiang/videos-on-theory-research-in-accounting/" target="_blank">Xu Jiang</a>, <a href="https://ksmith142.github.io" target="_blank">Kevin Smith</a>
+
 
 :books: Corporate Finance: <a href="http://www.gormley.info/phd-notes.html" target="_blank">Todd Gormley</a>, <a href="https://sites.google.com/view/adrienmatray/teaching" target="_blank">Adrien Matray</a>, <a href="https://finance.wharton.upenn.edu/~itayg/#PhD" target="_blank">Itay Goldstein</a>
 
