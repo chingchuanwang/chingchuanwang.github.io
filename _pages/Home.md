@@ -88,6 +88,7 @@ redirect_from:
       <span class="paper-title">
   Spillover Effect of Government Subsidies on Peer Firm Disclosure
 </span> 
+      <br>
 <span class="paper-abstract">
   (Job Market Paper)
 </span>
