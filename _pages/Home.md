@@ -53,7 +53,7 @@ redirect_from:
 ## About
 
 <div class="paper-abstract">
-  Ching-Chuan (David) Wang is a PhD Candidate in Accounting at the University of Utah. His research focuses on archival financial accounting, with a special emphasis on corporate disclosure and information intermediaries. He examines how firms strategically manage disclosure in response to regulatory changes and competitive pressures, and how these disclosure practices influence capital formation and investor decision-making. He teaches Managerial Accounting and has received the Doctoral Student Teaching Excellence Award at the University of Utah. He is on the academic job market in 2025–2026.
+  Ching-Chuan (David) Wang is a Ph.D. Candidate in Accounting at the University of Utah. His research focuses on archival financial accounting, with a special emphasis on corporate disclosure and information intermediaries. He examines how firms strategically manage disclosure in response to regulatory changes and competitive pressures, and how these disclosure practices influence capital formation and investor decision-making. He teaches Managerial Accounting and has received the Doctoral Student Teaching Excellence Award at the University of Utah. He is on the academic job market in 2025–2026.
 </div>
 
 
