@@ -46,7 +46,7 @@ redirect_from:
 
 ### PhD Notes
 
-- Accounting: <a href="https://www.robertbushman.net/phd-seminars" target="_blank">Robert Bushman</a>,
+- Accounting: <a href="https://iangow.github.io/far_book/" target="_blank">Ian Gow</a>, <a href="https://www.robertbushman.net/phd-seminars" target="_blank">Robert Bushman</a>,
 <a href="https://sites.google.com/site/jeremybertomeu/ph-d-course" target="_blank">Jeremy Bertomeu</a>, <a href="https://sites.duke.edu/xjiang/videos-on-theory-research-in-accounting/" target="_blank">Xu Jiang</a>, <a href="https://ksmith142.github.io" target="_blank">Kevin Smith</a>
 
 
