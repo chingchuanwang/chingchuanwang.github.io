@@ -50,7 +50,7 @@ redirect_from:
 <a href="https://sites.google.com/site/jeremybertomeu/ph-d-course" target="_blank">Jeremy Bertomeu</a>, <a href="https://sites.duke.edu/xjiang/videos-on-theory-research-in-accounting/" target="_blank">Xu Jiang</a>, <a href="https://ksmith142.github.io" target="_blank">Kevin Smith</a>
 
 
-- Corporate Finance: <a href="http://www.gormley.info/phd-notes.html" target="_blank">Todd Gormley</a>, <a href="https://sites.google.com/view/adrienmatray/teaching" target="_blank">Adrien Matray</a>, <a href="https://finance.wharton.upenn.edu/~itayg/#PhD" target="_blank">Itay Goldstein</a>
+- Corporate Finance: <a href="http://www.gormley.info/phd-notes.html" target="_blank">Todd Gormley</a>, <a href="https://finance.wharton.upenn.edu/~itayg/#PhD" target="_blank">Itay Goldstein</a>, <a href="https://sites.google.com/site/dthesmar/teaching" target="_blank">David Thesmar</a>, <a href="https://sites.google.com/view/adrienmatray/teaching" target="_blank">Adrien Matray</a>
 
 - Asset Pricing: <a href="https://www.koijen.net/empirical-asset-pricing-notes.html" target="_blank">Ralph Koijen</a>, <a href="https://kerryback.com/teaching.html" target="_blank">Kerry Back</a>, <a href="https://www.johnhcochrane.com/asset-pricing" target="_blank">John Cochrane</a>, <a href="http://pietroveronesi.org/teaching/BUS35907.htm" target="_blank">Pietro Veronesi</a>, <a href="https://markus.scholar.princeton.edu/classes" target="_blank">Markus Brunnermeier</a>
 
