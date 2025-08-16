@@ -364,20 +364,4 @@ b, i, strong, em, blockquote, p, q, span, figure, img, h1, h2, header, input, a,
     }
   }
 
-/* Light 模式連結樣式 */
-html[data-theme="light"] a {
-  color: #003366;   /* 比 #0066cc 更深的藍 */
-  font-weight: bold;
-}
-html[data-theme="light"] a:hover {
-  color: #001a66;   /* hover 再更深 */
-}
 
-/* Dark 模式連結樣式 */
-html[data-theme="dark"] a {
-  color: #66aaff;   /* 淺藍 */
-  font-weight: bold;
-}
-html[data-theme="dark"] a:hover {
-  color: #99ccff;   /* hover 更亮 */
-}
