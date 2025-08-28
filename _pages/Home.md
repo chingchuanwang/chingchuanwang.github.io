@@ -146,6 +146,24 @@ redirect_from:
   <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
 </table>
 
+## Selected Works in Progress
+
+<!-- Paper 3: same format (no abstract yet) -->
+<table class="paper">
+  <tr>
+    <td class="paper-text">
+      <span class="paper-title">The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
+      <ul class="paper-meta paper-ul">
+        <li></li>
+      </ul>
+    </td>
+    <td class="paper-fig">
+      <img src="/images/disagreement_analyst.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
+    </td>
+  </tr>
+  <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
+</table>
+
 --- 
 
 ## Teaching
