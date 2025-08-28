@@ -154,7 +154,6 @@ redirect_from:
     <td class="paper-text">
       <span class="paper-title">The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
       <ul class="paper-meta paper-ul">
-        <li></li>
       </ul>
     </td>
     <td class="paper-fig">
