@@ -148,7 +148,7 @@ redirect_from:
 
 ## Selected Works in Progress
 
-<!-- Paper 3: same format (no abstract yet) -->
+<!-- Paper 4: same format (no abstract yet) -->
 <table class="paper">
   <tr>
     <td class="paper-text">
@@ -158,7 +158,7 @@ redirect_from:
       </ul>
     </td>
     <td class="paper-fig">
-      <img src="/images/disagreement_analyst.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
+      <img src="/images/DID_revision.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
     </td>
   </tr>
   <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
