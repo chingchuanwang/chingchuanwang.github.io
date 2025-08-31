@@ -145,10 +145,6 @@ redirect_from:
   </tr>
   <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
 </table>
-
-## Selected Works in Progress
-
-<!-- Paper 4: same format (no abstract yet) -->
 <table class="paper">
   <tr>
     <td class="paper-text">
@@ -162,6 +158,7 @@ redirect_from:
   </tr>
   <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
 </table>
+
 
 --- 
 
