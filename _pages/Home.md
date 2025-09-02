@@ -86,7 +86,7 @@ redirect_from:
   <tr>
     <td class="paper-text">
       <span class="paper-title">
-  Spillover Effect of Government Subsidies on Peer Firm Disclosure
+  [1] Spillover Effect of Government Subsidies on Peer Firm Disclosure
 </span> 
       <br>
 <span class="paper-abstract">
@@ -115,7 +115,7 @@ redirect_from:
   <!-- Row 1: Title + meta (right cell kept empty for alignment) -->
   <tr>
     <td class="paper-text">
-      <span class="paper-title">Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</span><br>
+      <span class="paper-title"> [2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</span><br>
       <span class="paper-meta">(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)</span><br>
       <ul class="paper-meta paper-ul">
         <li>Presentations: Stanford Accounting Summer Camp, Barcelona Accounting Summer Workshop</li>
@@ -133,7 +133,7 @@ redirect_from:
 <table class="paper">
   <tr>
     <td class="paper-text">
-      <span class="paper-title">Does Specialization Lead to Disagreement?</span><br>
+      <span class="paper-title">[3] Does Specialization Lead to Disagreement?</span><br>
       <span class="paper-meta">(with <a href="https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href="https://www.linkedin.com/in/iman-sheibany-63714874/" target="_blank">Iman Sheibany</a>)</span><br>
       <ul class="paper-meta paper-ul">
         <li>Presentations: University of Utah</li>
@@ -148,7 +148,7 @@ redirect_from:
 <table class="paper">
   <tr>
     <td class="paper-text">
-      <span class="paper-title">The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
+      <span class="paper-title">[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
       <ul class="paper-meta paper-ul">
       </ul>
     </td>
