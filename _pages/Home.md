@@ -79,6 +79,7 @@ redirect_from:
 --- 
 
 ## Working Papers
+(*: Presented by coauthors)
 
 <!-- Paper 1: with figure + abstract -->
 <table class="paper">
@@ -118,7 +119,7 @@ redirect_from:
       <span class="paper-title"> [2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</span><br>
       <span class="paper-meta">(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Presentations: Stanford Accounting Summer Camp, Barcelona Accounting Summer Workshop</li>
+        <li>Presentations: LSE*, University of Mannheim*, Stanford Accounting Summer Camp*, Barcelona Accounting Summer Workshop* </li>
       </ul>
     </td>
     <td class="paper-fig">
@@ -150,7 +151,7 @@ redirect_from:
     <td class="paper-text">
       <span class="paper-title">[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Presentations: BYU Accounting Research Symposium </li>
+        <li>Presentations: IAS Midyear Meeting (scheduled), BYU Accounting Research Symposium </li>
       </ul>
     </td>
     <td class="paper-fig">
