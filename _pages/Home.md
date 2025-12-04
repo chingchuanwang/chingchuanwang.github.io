@@ -123,7 +123,7 @@ redirect_from:
       </ul>
     </td>
     <td class="paper-fig">
-      <img src="/images/trading_change_202109.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
+      <img src="/images/Fig2a_investor_investor.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
     </td>
   </tr>
   <!-- Row 2 reserved for future abstract -->
