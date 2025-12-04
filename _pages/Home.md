@@ -116,10 +116,10 @@ redirect_from:
   <!-- Row 1: Title + meta (right cell kept empty for alignment) -->
   <tr>
     <td class="paper-text">
-      <span class="paper-title"> [2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</span><br>
+      <span class="paper-title"> [2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>]</span><br> 
       <span class="paper-meta">(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Presentations: LSE*, University of Mannheim*, Stanford Accounting Summer Camp*, Barcelona Accounting Summer Workshop* </li>
+        <li>Presentations: LSE*, NC State*, University of Mannheim*, Stanford Accounting Summer Camp*, Barcelona Accounting Summer Workshop* </li>
       </ul>
     </td>
     <td class="paper-fig">
