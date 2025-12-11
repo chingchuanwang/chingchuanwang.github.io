@@ -176,6 +176,11 @@ redirect_from:
   * Received Doctoral Student Teaching Excellence Award
 
 ---
+## Certifications
+- CMA (passed both Part 1 and Part 2)
+- CFA (passed Level 1)
+
+---
 ## Misc
 
 - Academic Genealogy: Merton Miller &rarr; Eugene Fama &rarr; Ross Watts &rarr; Richard Sloan &rarr; Scott Richardson &rarr; Atif Ellahie &rarr; Ching-Chuan Wang
