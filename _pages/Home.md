@@ -77,7 +77,6 @@ redirect_from:
 
 ---
 ## Certifications
-## Certifications
 - Certified Management Accountant (CMA)
   - Passed all exams; certification pending work experience requirement
 
