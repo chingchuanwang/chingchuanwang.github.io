@@ -79,7 +79,6 @@ redirect_from:
 --- 
 
 ## Working Papers
-(*: Presented by coauthors)
 
 <!-- Paper 1: with figure + abstract -->
 <table class="paper">
@@ -162,6 +161,7 @@ redirect_from:
   <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
 </table>
 
+(*: Presented by coauthors)
 
 --- 
 
