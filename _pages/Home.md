@@ -75,6 +75,11 @@ redirect_from:
 
 - B.S. in Finance, Statistics (minor), National Chengchi University, 2013
 
+---
+## Certifications
+## Certifications
+- Certified Management Accountant (CMA)
+  - Passed all exams; certification pending work experience requirement
 
 --- 
 
@@ -174,11 +179,6 @@ redirect_from:
 - Management Accounting (ACCT 5210), Undergraduate, Summer 2023  
   * Average Instructor Rating: 5.5/6.0; Median: 6.0/6.0  
   * Received Doctoral Student Teaching Excellence Award
-
----
-## Certifications
-- CMA (passed both Part 1 and Part 2)
-- CFA (passed Level 1)
 
 ---
 ## Misc
