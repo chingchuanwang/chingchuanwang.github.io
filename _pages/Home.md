@@ -76,7 +76,7 @@ redirect_from:
 - B.S. in Finance, Statistics (minor), National Chengchi University, 2013
 
 ---
-## Certifications
+## Certification
 - Certified Management Accountant (CMA)
   - Passed all exams; certification pending work experience requirement
 
