@@ -77,7 +77,19 @@ redirect_from:
 
 ---
 ## Certification
-- Certified Management Accountant (CMA)
+<table class="paper">
+  <tr>
+    <td class="paper-text">
+        <li>Certified Management Accountant (CMA)</li>
+      </ul>
+    </td>
+    <td class="paper-fig">
+      <img src="/images/CMA_CCWang.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
+    </td>
+  </tr>
+  <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
+</table>
+
 
 --- 
 
