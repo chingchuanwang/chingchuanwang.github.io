@@ -46,13 +46,13 @@ redirect_from:
 
 ### PhD Notes
 
-- Accounting: <a href="https://iangow.github.io/far_book/" target="_blank">Ian Gow</a>, <a href="https://www.robertbushman.net/phd-seminars" target="_blank">Robert Bushman</a>,
+- Accounting: <a href="https://iangow.github.io/far_book/" target="_blank">Ian Gow</a>, 
 <a href="https://sites.google.com/site/jeremybertomeu/ph-d-course" target="_blank">Jeremy Bertomeu</a>, <a href="https://sites.duke.edu/xjiang/videos-on-theory-research-in-accounting/" target="_blank">Xu Jiang</a>, <a href="https://ksmith142.github.io" target="_blank">Kevin Smith</a>
 
 
 - Corporate Finance: <a href="http://www.gormley.info/phd-notes.html" target="_blank">Todd Gormley</a>, <a href="https://finance.wharton.upenn.edu/~itayg/#PhD" target="_blank">Itay Goldstein</a>, <a href="https://sites.google.com/site/dthesmar/teaching" target="_blank">David Thesmar</a>, <a href="https://sites.google.com/view/adrienmatray/teaching" target="_blank">Adrien Matray</a>
 
-- Asset Pricing: <a href="https://www.koijen.net/empirical-asset-pricing-notes.html" target="_blank">Ralph Koijen</a>, <a href="https://kerryback.com/teaching.html" target="_blank">Kerry Back</a>, <a href="https://www.johnhcochrane.com/asset-pricing" target="_blank">John Cochrane</a>, <a href="http://pietroveronesi.org/teaching/BUS35907.htm" target="_blank">Pietro Veronesi</a>, <a href="https://markus.scholar.princeton.edu/classes" target="_blank">Markus Brunnermeier</a>, <a href="https://gpennacc.web.illinois.edu/fin591.html" target="_blank">George Pennacchi</a>
+- Asset Pricing: <a href="https://www.koijen.net/asset-pricing-notes.html" target="_blank">Ralph Koijen</a>, <a href="https://kerryback.com/teaching.html" target="_blank">Kerry Back</a>, <a href="https://www.johnhcochrane.com/asset-pricing" target="_blank">John Cochrane</a>, <a href="http://pietroveronesi.org/teaching/BUS35907.htm" target="_blank">Pietro Veronesi</a>, <a href="https://markus.scholar.princeton.edu/classes" target="_blank">Markus Brunnermeier</a>, <a href="https://gpennacc.web.illinois.edu/fin591.html" target="_blank">George Pennacchi</a>
 
 - Microeconomics: <a href="https://home.uchicago.edu/cbm4/cpt/index.html" target="_blank">Chicago price theory</a>, <a href="https://economics.mit.edu/people/faculty/drew-fudenberg/teaching" target="_blank">Drew Fudenberg</a>, <a href="https://web.stanford.edu/~jacksonm/courses.html" target="_blank">Matthew Jackson</a>, <a href="https://eml.berkeley.edu//~kariv/Teaching.htm" target="_blank">Shachar Kariv</a>
 
