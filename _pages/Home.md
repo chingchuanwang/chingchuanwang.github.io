@@ -155,7 +155,7 @@ redirect_from:
     <td class="paper-text">
       <span class="paper-title">[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Presentations: IAS Midyear Meeting (scheduled), BYU Accounting Research Symposium </li>
+        <li>Presentations: IAS Midyear Meeting, BYU Accounting Research Symposium </li>
       </ul>
     </td>
     <td class="paper-fig">
