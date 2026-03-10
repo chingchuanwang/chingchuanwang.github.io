@@ -109,7 +109,7 @@ redirect_from:
   <!-- Row 2: Full-width abstract -->
   <tr>
     <td class="paper-abstract" colspan="2">
-      <strong>Abstract:</strong> Federal and state governments frequently utilize subsidies to support businesses in the United States. While previous studies have examined how subsidies affect recipient firms, spillover effects on non-recipient peer firms have received limited attention. This research investigates how peer firms respond to government subsidies awarded to their competitors, particularly through changes in corporate disclosures. The findings reveal that peer firms significantly increase disclosures across 10-K filings, 8-K filings, and corporate website content. This transparency enhancement is more pronounced among peer firms with weaker fundamental performance, greater financial constraints, and exposure to heightened competition, suggesting that firms facing greater competitive pressure are more likely to adjust disclosure practices in response to subsidy events. These findings demonstrate how peer firms strategically enhance transparency to navigate challenges posed by subsidized competition, contributing to the understanding of disclosure dynamics and government policy spillover effects.
+      
     </td>
   </tr>
 </table>
