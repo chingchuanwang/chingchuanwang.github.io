@@ -99,7 +99,7 @@ redirect_from:
 <br>
       <ul class="paper-meta paper-ul">
         <li>Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (Chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a></li>
-        <li>Presentations: AAA Annual Conference, LBS Transatlantic Doctoral Conference, Western Region Doctoral Student & Faculty Interchange Conference, IAS Midyear Meeting, BYU Accounting Research Symposium, AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, University of Utah</li>
+        <li>Presentations: JIAR Conference (scheduled), AAA Annual Meeting, LBS Transatlantic Doctoral Conference, Western Region Doctoral Student & Faculty Interchange Conference, IAS Midyear Meeting, BYU Accounting Research Symposium, AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, University of Utah</li>
       </ul>
     </td>
     <td class="paper-fig">
@@ -122,7 +122,6 @@ redirect_from:
       <span class="paper-title"> <b>[2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</b> [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>] </span><br> 
       <span class="paper-meta">(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Under review </li>
         <li>Presentations: LSE*, NC State*, University of Mannheim*, Stanford Accounting Summer Camp*, Barcelona Accounting Summer Workshop* </li>
       </ul>
     </td>
@@ -155,7 +154,7 @@ redirect_from:
     <td class="paper-text">
       <span class="paper-title">[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Presentations: IAS Midyear Meeting, BYU Accounting Research Symposium </li>
+        <li>Presentations: AAA Global Connect (scheduled), JIAR Conference (scheduled), IAS Midyear Meeting, BYU Accounting Research Symposium </li>
       </ul>
     </td>
     <td class="paper-fig">
