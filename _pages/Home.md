@@ -53,21 +53,21 @@ redirect_from:
 ## About
 
 <div class="paper-abstract">
-  Ching-Chuan (David) Wang is a Ph.D. Candidate in Accounting at the University of Utah. His research focuses on archival financial accounting, with a special emphasis on corporate disclosure and information intermediaries. He examines how firms strategically manage disclosure in response to regulatory changes and competitive pressures, and how these disclosure practices influence capital formation and investor decision-making. He teaches Managerial Accounting and has received the Doctoral Student Teaching Excellence Award at the University of Utah. He is on the academic job market in 2025–2026.
+Ching-Chuan (David) Wang is a Ph.D. Candidate in Accounting at the University of Utah. His research focuses on archival financial accounting, with a special emphasis on corporate disclosure and information intermediaries. He expects to join National Taiwan University as an Assistant Professor starting in Fall 2026.   
 </div>
 
 
 
 ### <a href="https://chingchuanwang.github.io/files/CV_CCWang.pdf" target="_blank">Curriculum Vitae</a>
 
-### Email: [david.c.wang@eccles.utah.edu](mailto:david.c.wang@eccles.utah.edu)
+### Email: [david.c.wang@utah.edu](mailto:david.c.wang@utah.edu)
 
 ---
 
 ## Education
 
 
-- Ph.D. in Accounting, University of Utah, 2026 (expected)
+- Ph.D. in Accounting, University of Utah, 2026
 
 - M.S. in Finance, University of British Columbia, 2020
 
@@ -99,7 +99,7 @@ redirect_from:
 <br>
       <ul class="paper-meta paper-ul">
         <li>Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (Chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a></li>
-        <li>Presentations: JIAR Conference (scheduled), AAA Annual Meeting, LBS Transatlantic Doctoral Conference, Western Region Doctoral Student & Faculty Interchange Conference, IAS Midyear Meeting, BYU Accounting Research Symposium, AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, University of Utah</li>
+        <li>Presentations: JIAR Conference, AAA Annual Meeting, LBS Transatlantic Doctoral Conference, Western Region Doctoral Student & Faculty Interchange Conference, IAS Midyear Meeting, BYU Accounting Research Symposium, AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, University of Utah</li>
       </ul>
     </td>
     <td class="paper-fig">
@@ -154,7 +154,7 @@ redirect_from:
     <td class="paper-text">
       <span class="paper-title">[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
       <ul class="paper-meta paper-ul">
-        <li>Presentations: AAA Global Connect (scheduled), JIAR Conference (scheduled), IAS Midyear Meeting, BYU Accounting Research Symposium </li>
+        <li>Presentations: AAA Global Connect (scheduled), JIAR Conference, IAS Midyear Meeting, BYU Accounting Research Symposium </li>
       </ul>
     </td>
     <td class="paper-fig">
