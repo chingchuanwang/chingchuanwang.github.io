@@ -84,87 +84,18 @@ Ching-Chuan (David) Wang is a Ph.D. Candidate in Accounting at the University of
 
 ## Working Papers
 
-<!-- Paper 1: with figure + abstract -->
-<table class="paper">
-  <!-- Row 1: Title + meta (left) and Figure (right) -->
-  <tr>
-    <td class="paper-text">
-      <span class="paper-title">
-  [1] Spillover Effect of Government Subsidies on Peer Firm Disclosure
-</span> 
-      <br>
-<span class="paper-abstract">
-  (Job Market Paper)
-</span>
-<br>
-      <ul class="paper-meta paper-ul">
-        <li>Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (Chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a></li>
-        <li>Presentations: JIAR Conference, AAA Annual Meeting, LBS Transatlantic Doctoral Conference, Western Region Doctoral Student & Faculty Interchange Conference, IAS Midyear Meeting, BYU Accounting Research Symposium, AAA/Deloitte Foundation/J. Michael Cook Doctoral Consortium, University of Utah</li>
-      </ul>
-    </td>
-    <td class="paper-fig">
-      <img src="/images/DID_10K - Words.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
-    </td>
-  </tr>
-  <!-- Row 2: Full-width abstract -->
-  <tr>
-    <td class="paper-abstract" colspan="2">
-      
-    </td>
-  </tr>
-</table>
+[1] Spillover Effect of Government Subsidies on Peer Firm Disclosure
+- Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (Chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a></li>
 
-<!-- Paper 2: same format (no abstract yet) -->
-<table class="paper">
-  <!-- Row 1: Title + meta (right cell kept empty for alignment) -->
-  <tr>
-    <td class="paper-text">
-      <span class="paper-title"> <b>[2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</b> [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>] </span><br> 
-      <span class="paper-meta">(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)</span><br>
-      <ul class="paper-meta paper-ul">
-        <li>Presentations: LSE*, NC State*, University of Mannheim*, Stanford Accounting Summer Camp*, Barcelona Accounting Summer Workshop* </li>
-      </ul>
-    </td>
-    <td class="paper-fig">
-      <img src="/images/Fig2a_investor_investor.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
-    </td>
-  </tr>
-  <!-- Row 2 reserved for future abstract -->
-  <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
-</table>
+[2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</b> [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>]  
 
-<!-- Paper 3: same format (no abstract yet) -->
-<table class="paper">
-  <tr>
-    <td class="paper-text">
-      <span class="paper-title">[3] Does Specialization Lead to Disagreement?</span><br>
-      <span class="paper-meta">(with <a href="https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href="https://www.linkedin.com/in/iman-sheibany-63714874/" target="_blank">Iman Sheibany</a>)</span><br>
-      <ul class="paper-meta paper-ul">
-        <li>Presentations: University of Utah</li>
-      </ul>
-    </td>
-    <td class="paper-fig">
-      <img src="/images/disagreement_analyst.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
-    </td>
-  </tr>
-  <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
-</table>
-<table class="paper">
-  <tr>
-    <td class="paper-text">
-      <span class="paper-title">[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing</span><br>
-      <ul class="paper-meta paper-ul">
-        <li>Presentations: AAA Global Connect (scheduled), JIAR Conference, IAS Midyear Meeting, BYU Accounting Research Symposium </li>
-      </ul>
-    </td>
-    <td class="paper-fig">
-      <img src="/images/DID_revision.png" alt="Research image" style="display:block;margin:auto;max-width:350px;">
-    </td>
-  </tr>
-  <!-- <tr><td class="paper-abstract" colspan="2"><strong>Abstract:</strong> ...</td></tr> -->
-</table>
+(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)
 
-(*: Presented by coauthors)
+[3] Does Specialization Lead to Disagreement?
+
+(with <a href="https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href="https://www.linkedin.com/in/iman-sheibany-63714874/" target="_blank">Iman Sheibany</a>)
+
+[4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing
 
 --- 
 
