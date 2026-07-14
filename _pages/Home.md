@@ -85,9 +85,9 @@ Ching-Chuan (David) Wang is a Ph.D. Candidate in Accounting at the University of
 ## Working Papers
 
 [1] Spillover Effect of Government Subsidies on Peer Firm Disclosure
-- Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (Chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a></li>
+- Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (Chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a>
 
-[2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market</b> [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>]  
+[2] Signaling in the Twilight Zone: Disclosure and Credibility in the OTC Market [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>]  
 
 (with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)
 
