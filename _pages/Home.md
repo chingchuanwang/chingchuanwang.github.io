@@ -53,14 +53,18 @@ redirect_from:
 ## About
 
 <div class="paper-abstract">
-Ching-Chuan (David) Wang is a Ph.D. Candidate in Accounting at the University of Utah. His research focuses on archival financial accounting, with a special emphasis on corporate disclosure and information intermediaries. He expects to join National Taiwan University as an Assistant Professor starting in Fall 2026.   
+Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Taiwan University. His research focuses on archival financial accounting, with a particular emphasis on corporate disclosure and information intermediaries. He holds a Ph.D. from the University of Utah, master’s degrees from the University of British Columbia and Duke University, and a bachelor’s degree from National Chengchi University. He is also a Certified Management Accountant (CMA).
 </div>
 
 
 
 ### <a href="https://chingchuanwang.github.io/files/CV_CCWang.pdf" target="_blank">Curriculum Vitae</a>
 
-### Email: [david.c.wang@utah.edu](mailto:david.c.wang@utah.edu)
+### Email: [davidccwang@ntu.edu.tw](mailto:davidccwang@ntu.edu.tw)
+---
+## Academic Employment
+
+- Assistant Professor of Accounting, National Taiwan University, 2026 - present
 
 ---
 
