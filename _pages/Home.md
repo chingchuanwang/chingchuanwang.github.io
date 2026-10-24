@@ -101,10 +101,13 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 
 - [4] The Price of Peer Disclosure: OTC Transparency and IPO Pricing
 
+  (with <a href="https://profiles.faculty.utah.edu/u6070559" target="_blank">Cyndia Wang</a>)
+
 --- 
 
 ## Teaching
 
+- Accounting Principles I (MGT 1001), National Taiwan University, Fall 2026
 - Management Accounting (ACCT 5210), University of Utah
   * Average Instructor Rating: 4.85/5.0, Summer 2025
   * Average Instructor Rating: 5.45/6.0, Summer 2023
