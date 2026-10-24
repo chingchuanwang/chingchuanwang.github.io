@@ -77,7 +77,7 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 
 - M.A. in Economics, Duke University, 2016
 
-- B.S. in Finance, Statistics (minor), National Chengchi University, 2013
+- B.S. in Finance (minor in Statistics), National Chengchi University, 2013
 
 ---
 ## Certification
