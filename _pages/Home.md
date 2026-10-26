@@ -50,7 +50,7 @@ redirect_from:
 </style>
 
 
-## About
+### About
 
 <div class="paper-abstract">
 Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Taiwan University. His research focuses on archival financial accounting, with a particular emphasis on corporate disclosure and information intermediaries. He holds a Ph.D. from the University of Utah, master’s degrees from the University of British Columbia and Duke University, and a bachelor’s degree from National Chengchi University. He is also a Certified Management Accountant (CMA).
@@ -62,13 +62,13 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 
 ### Email: [davidccwang@ntu.edu.tw](mailto:davidccwang@ntu.edu.tw)
 ---
-## Academic Employment
+### Academic Employment
 
 Assistant Professor of Accounting, National Taiwan University, 2026 - present
 
 ---
 
-## Education
+### Education
 Ph.D. in Accounting, University of Utah, 2026
 
 M.S. in Finance, University of British Columbia, 2020
@@ -78,12 +78,12 @@ M.A. in Economics,  Duke University, 2016
 B.S. in Finance (minor in Statistics), National Chengchi University, 2009 - 2013
 
 ---
-## Certification
+### Certification
 Certified Management Accountant (CMA)
 
 --- 
 
-## Working Papers
+### Working Papers
 
 ### Spillover Effect of Government Subsidies on Peer Firm Disclosure
 - Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a>
@@ -102,13 +102,13 @@ Certified Management Accountant (CMA)
 
 --- 
 
-## Teaching
+### Teaching
 
 - Accounting Principles I (MGT 1001), National Taiwan University, 2026
 - Management Accounting (ACCT 5210), University of Utah, 2023 & 2025
 
 ---
-## Misc
+### Misc
 
 - Academic Genealogy: Merton Miller &rarr; Eugene Fama &rarr; Ross Watts &rarr; Richard Sloan &rarr; Scott Richardson &rarr; Atif Ellahie &rarr; Ching-Chuan Wang
 
