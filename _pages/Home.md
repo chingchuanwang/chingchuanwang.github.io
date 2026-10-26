@@ -91,17 +91,15 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 - ### Does Specialization Lead to Disagreement?
   (with <a href="https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href="https://www.linkedin.com/in/iman-sheibany-63714874/" target="_blank">Iman Sheibany</a>)
 
-- #### The Price of Peer Disclosure: OTC Transparency and IPO Pricing
+- ### The Price of Peer Disclosure: OTC Transparency and IPO Pricing
   (with <a href="https://profiles.faculty.utah.edu/u6070559" target="_blank">Cyndia Wang</a>)
 
 --- 
 
 ## Teaching
 
-- Accounting Principles I (MGT 1001), National Taiwan University, Fall 2026
-- Management Accounting (ACCT 5210), University of Utah
-  * Average Instructor Rating: 4.85/5.0, Summer 2025
-  * Average Instructor Rating: 5.45/6.0, Summer 2023
+- Accounting Principles I (MGT 1001), National Taiwan University, 2026
+- Management Accounting (ACCT 5210), University of Utah, 2023 and 2025
 
 ---
 ## Misc
