@@ -58,9 +58,10 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 
 
 
-### <a href="https://chingchuanwang.github.io/files/CV_CCWang.pdf" target="_blank">Curriculum Vitae</a>
+<a href="https://chingchuanwang.github.io/files/CV_CCWang.pdf" target="_blank">Curriculum Vitae</a>
 
-### Email: [davidccwang@ntu.edu.tw](mailto:davidccwang@ntu.edu.tw)
+Email: [davidccwang@ntu.edu.tw](mailto:davidccwang@ntu.edu.tw)
+
 ---
 ### Academic Employment
 
