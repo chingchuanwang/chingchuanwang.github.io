@@ -77,10 +77,6 @@ M.A. in Economics,  Duke University, 2016
 
 B.S. in Finance (minor in Statistics), National Chengchi University, 2009 - 2013
 
----
-### Certification
-Certified Management Accountant (CMA)
-
 --- 
 
 ### Working Papers
@@ -107,6 +103,10 @@ Certified Management Accountant (CMA)
 Accounting Principles I (MGT 1001), National Taiwan University, 2026
 
 Management Accounting (ACCT 5210), University of Utah, 2023 & 2025
+
+---
+### Certification
+Certified Management Accountant (CMA)
 
 ---
 ### Misc
