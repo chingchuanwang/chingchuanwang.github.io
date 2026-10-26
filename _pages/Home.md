@@ -99,7 +99,7 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 ## Teaching
 
 - Accounting Principles I (MGT 1001), National Taiwan University, 2026
-- Management Accounting (ACCT 5210), University of Utah, 2023 and 2025
+- Management Accounting (ACCT 5210), University of Utah, 2023 & 2025
 
 ---
 ## Misc
