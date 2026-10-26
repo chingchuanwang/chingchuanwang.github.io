@@ -64,30 +64,19 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 ---
 ## Academic Employment
 
-- ### National Taiwan University
-  Assistant Professor of Accounting, 2026 - present
+- Assistant Professor of Accounting, National Taiwan University, 2026 - present
 
 ---
 
 ## Education
-
-
-- ### University of Utah
-    Ph.D. in Accounting, 2020 - 2026 
-
-- ### University of British Columbia
-  M.S. in Finance, 2017 - 2020
-
-- ### Duke University
-  M.A. in Economics, 2014 - 2016
-
-- ### National Chengchi University
-  B.S. in Finance (minor in Statistics), 2009 - 2013
+- Ph.D. in Accounting, University of Utah, 2026
+- M.S. in Finance, University of British Columbia, 2020
+- M.A. in Economics,  Duke University, 2016
+- B.S. in Finance (minor in Statistics), National Chengchi University, 2009 - 2013
 
 ---
 ## Certification
 - Certified Management Accountant (CMA)
-
 
 --- 
 
