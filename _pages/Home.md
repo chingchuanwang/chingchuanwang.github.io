@@ -104,11 +104,12 @@ Certified Management Accountant (CMA)
 
 ### Teaching
 
-- Accounting Principles I (MGT 1001), National Taiwan University, 2026
-- Management Accounting (ACCT 5210), University of Utah, 2023 & 2025
+Accounting Principles I (MGT 1001), National Taiwan University, 2026
+
+Management Accounting (ACCT 5210), University of Utah, 2023 & 2025
 
 ---
 ### Misc
 
-- Academic Genealogy: Merton Miller &rarr; Eugene Fama &rarr; Ross Watts &rarr; Richard Sloan &rarr; Scott Richardson &rarr; Atif Ellahie &rarr; Ching-Chuan Wang
+Academic Genealogy: Merton Miller &rarr; Eugene Fama &rarr; Ross Watts &rarr; Richard Sloan &rarr; Scott Richardson &rarr; Atif Ellahie &rarr; Ching-Chuan Wang
 
