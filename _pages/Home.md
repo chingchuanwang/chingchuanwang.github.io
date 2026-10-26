@@ -64,35 +64,41 @@ Ching-Chuan (David) Wang is an Assistant Professor of Accounting at National Tai
 ---
 ## Academic Employment
 
-- Assistant Professor of Accounting, National Taiwan University, 2026 - present
+Assistant Professor of Accounting, National Taiwan University, 2026 - present
 
 ---
 
 ## Education
-- Ph.D. in Accounting, University of Utah, 2026
-- M.S. in Finance, University of British Columbia, 2020
-- M.A. in Economics,  Duke University, 2016
-- B.S. in Finance (minor in Statistics), National Chengchi University, 2009 - 2013
+Ph.D. in Accounting, University of Utah, 2026
+
+M.S. in Finance, University of British Columbia, 2020
+
+M.A. in Economics,  Duke University, 2016
+
+B.S. in Finance (minor in Statistics), National Chengchi University, 2009 - 2013
 
 ---
 ## Certification
-- Certified Management Accountant (CMA)
+Certified Management Accountant (CMA)
 
 --- 
 
 ## Working Papers
 
-- ### Spillover Effect of Government Subsidies on Peer Firm Disclosure
-  * Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a>
+### Spillover Effect of Government Subsidies on Peer Firm Disclosure
+- Committee: <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a> (chair), <a href="https://profiles.faculty.utah.edu/u0889916" target="_blank">Steve Stubben</a>, <a href="https://eccles.utah.edu/team/steve-monahan/" target="_blank">Steve Monahan</a>, <a href="https://sites.google.com/view/xiaoxia-peng/home" target="_blank">Xiaoxia Peng</a>, <a href="https://sites.google.com/site/yihuipan/Home" target="_blank">Yihui Pan</a>
 
-- ### When Audit is a Choice: Disclosure, Verification, and Capital Formation in the U.S. OTC Markets [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>]
-  (with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)
+### When Audit is a Choice: Disclosure, Verification, and Capital Formation in the U.S. OTC Markets [<a href="https://papers.ssrn.com/sol3/Papers.cfm?abstract_id=5856643" target="_blank">SSRN</a>]
+  
+(with <a href="https://thomasbourveau.github.io/bio.html" target="_blank">Thomas Bourveau</a>, <a href="https://people.miami.edu/profile/2f772ad9b4baeea65b8e1e7103d438aa" target="_blank">Emmanuel De George</a>, <a href="https://atifellahie.com" target="_blank">Atif Ellahie</a>, <a href="https://mgaulin.com" target="_blank">Maclean Gaulin</a>)
 
-- ### Does Specialization Lead to Disagreement?
-  (with <a href="https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href="https://www.linkedin.com/in/iman-sheibany-63714874/" target="_blank">Iman Sheibany</a>)
+### Does Specialization Lead to Disagreement?
 
-- ### The Price of Peer Disclosure: OTC Transparency and IPO Pricing
-  (with <a href="https://profiles.faculty.utah.edu/u6070559" target="_blank">Cyndia Wang</a>)
+(with <a href="https://sites.google.com/site/cyrusaghamolla/home" target="_blank">Cyrus Aghamolla</a>, <a href="https://www.linkedin.com/in/iman-sheibany-63714874/" target="_blank">Iman Sheibany</a>)
+
+### The Price of Peer Disclosure: OTC Transparency and IPO Pricing
+
+(with <a href="https://profiles.faculty.utah.edu/u6070559" target="_blank">Cyndia Wang</a>)
 
 --- 
 
